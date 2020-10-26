@@ -1,0 +1,28 @@
+<resources>
+    <!--Nombre de la aplicacion-->
+    <string name="app_name">My Sites</string>
+    <!--Nombre de la apliacion-->
+    <string name="title_activity_mimapa">Map</string>
+    <!--Edittext de l codigo al ingresar-->
+    <string name="txt_codigo">Codigo del Lugar</string>
+    <!--Texto de la descripcion-->
+    <string name="txt_descripcion">Descripción del lugar</string>
+    <!--Texto para calificar-->
+    <string name="txt_precio">Calificacion</string>
+    <!--Boton de accion registrar-->
+    <string name="BotonRegistrar">Registrar Lugar</string>
+    <!--Boton de accion buscar -->
+    <string name="BotonBuscar">Buscar Lugar</string>
+    <!--Boton de accion eliminar-->
+    <string name="BotonEliminar">Eliminar Lugar</string>
+    <!--Boton de accion modificar-->
+    <string name="BotonModificar">Modificar Lugar</string>
+    <!--Boton de mostar el mapa-->
+    <string name="BotonIrMapa">Ir al mapa</string>
+    <string name="sitios">Sitios Turisticos</string>
+    <!--Complemento para el mapa -->
+    <string name="marker_detail_latlng">(%1$.2f, %2$.2f)</string>
+
+
+
+</resources>
